@@ -1,6 +1,6 @@
 ### Hello! I'm M. Ntrimerhs also know as [nitradoz][website]
 
-[![Website](https://img.shields.io/website?label=nitradoz&style=for-the-badge&url=https%3A%2F%)](https://ntrimerhs.github.io/website/)
+[![Website](https://img.shields.io/website?label=ntrimerhs.github.io/website&style=for-the-badge&url=https%3A%2F%)](https://ntrimerhs.github.io/website/)
 
 ## I am a Programmer. 
 
