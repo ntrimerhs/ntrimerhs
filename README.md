@@ -40,5 +40,5 @@
 </p>
 
 [website]: https://ntrimerhs.github.io/website/
-[youtube]: https://www.youtube.com/channel/nitradoz
+[youtube]: https://youtube.com/c/Nitradoz
 [instagram]: https://www.instagram.com/nitradoz/
