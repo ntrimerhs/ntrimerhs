@@ -32,10 +32,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ntrimerhs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=0d1117">
+    <img src="https://github-readme-stats.vercel.app/api?username=ntrimerhs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gruvbox&bg_color=0d1117">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrimerhs&layout=compact&hide_border=true&theme=radical&bg_color=0d1117">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrimerhs&layout=compact&hide_border=true&theme=gruvbox&bg_color=0d1117">
   </a>
 </p>
 
